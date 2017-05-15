@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bittrex chart helper",
+  "description": "This extension lets you open full page charts easily on Bittrex.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
